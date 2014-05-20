@@ -1,0 +1,17 @@
+{
+  "name": "parse_url",
+  "version": "0.1.0",
+  "description": "Faster URL Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parser",
+    "url",
+    "url_parser",
+    "parse_url"
+  ],
+  "author": "Minh Nguyen",
+  "license": "MIT"
+}
