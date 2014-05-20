@@ -7,6 +7,6 @@ Example:
 
 var parser = require('parse_url');
 
-var url = 'www.google.com?q#fragment';
+var url = 'www.google.com/hello?q#npm';
 
 var result = parser(url);
